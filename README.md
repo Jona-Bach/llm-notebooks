@@ -1,0 +1,1 @@
+Vorher checken, dass Ollama läuft!
